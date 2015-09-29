@@ -4,7 +4,7 @@
 #
 Name     : rubygem-gauntlet
 Version  : 2.1.0
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/gauntlet-2.1.0.gem
 Source0  : https://rubygems.org/downloads/gauntlet-2.1.0.gem
 Summary  : No detailed summary available
